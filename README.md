@@ -1,4 +1,4 @@
-# Dia 1 – Conversor CSV → SQL Insert (sem BULK INSERT)
+# Conversor CSV → SQL Insert (sem BULK INSERT)
 
 Este projeto lê um arquivo CSV e insere os dados diretamente em uma tabela SQL Server via `pyodbc`.
 
